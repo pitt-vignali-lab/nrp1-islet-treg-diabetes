@@ -139,7 +139,10 @@ GSEA pathways at adjusted *P* < 0.05.
 
 **Jian Cui** — Senior Bioinformatics Scientist  
 Vignali Lab, Department of Immunology  
-School of Medicine, University of Pittsburgh
+School of Medicine, University of Pittsburgh  
+<cuij@pitt.edu>
+
+Questions about the analysis or this code are welcome.
 
 ## License
 
